@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-04-02T17:57:03.457Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-04-02T17:59:03.457Z"
+    },
+    {
+      "id": "3",
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "id": "199e",
+      "description": "Mario",
+      "price": 200,
+      "category": "Jogo",
+      "type": "outcome",
+      "createdAt": "2024-04-03T16:49:26.980Z"
+    },
+    {
+      "id": "2c30",
+      "description": "venda",
+      "price": 2,
+      "category": "Jogo",
+      "type": "income",
+      "createdAt": "2024-04-03T16:55:06.260Z"
+    },
+    {
+      "id": "64e2",
+      "description": "Manga",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-04-03T17:30:12.637Z"
+    },
+    {
+      "id": "8409",
+      "description": "compra",
+      "price": -4,
+      "category": "Jogo",
+      "type": "income",
+      "createdAt": "2024-04-05T13:22:40.871Z"
+    },
+    {
+      "id": "a6fe",
+      "description": "compra",
+      "price": -110,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2024-04-05T13:23:02.314Z"
+    }
+  ]
+}
